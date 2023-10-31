@@ -1,4 +1,4 @@
-module gopkg.in/telebot.v3
+module github.com/Vico1993/telebot
 
 go 1.16
 
